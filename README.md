@@ -57,9 +57,13 @@ This combination of automatic headlight dimming and obstacle detection enhances 
 | `hardware demo.jpeg` | Hardware demonstration image |
 
 
+## Team Members
 
+- Archana Nair
+- [MIdhun M]
+- [Varunapriya S]
+- [Vishnupriya S]
 
-## Author
+## Academic Project
 
-**Archana Nair**  
-B.Tech Electronics and Communication Engineering
+This project was developed as part of the Semester 4 Microcontroller Laboratory coursework.
