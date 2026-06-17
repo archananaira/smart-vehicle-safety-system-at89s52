@@ -44,7 +44,7 @@ This combination of automatic headlight dimming and obstacle detection enhances 
 
 ## Hardware Demonstration
 
-![Hardware Demo](mc%20demo.jpeg)
+![Hardware Demo](hardware%20demo.jpeg)
 
 ---
 
