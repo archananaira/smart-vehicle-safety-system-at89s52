@@ -17,3 +17,7 @@ A vehicle safety system developed using the AT89S52 microcontroller.
 - ## Block Diagram
 
 ![Block Diagram](svs%20block%20diagram.png)
+
+## Demo
+
+![Demo](mc%20demo.jpeg)  
