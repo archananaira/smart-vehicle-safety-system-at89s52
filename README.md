@@ -13,3 +13,7 @@ A vehicle safety system developed using the AT89S52 microcontroller.
 - Embedded C
 - AT89S52
 - Keil uVision
+
+- ## Block Diagram
+
+![Block Diagram](svs%20block%20diagram.png)
