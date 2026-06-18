@@ -62,7 +62,7 @@ This combination of automatic headlight dimming and obstacle detection enhances 
 - Archana Nair A
 - Midhun M
 - Varunapriya S
-- Vishnupriya S
+- Vishnupriya R
 
 ## Academic Project
 
